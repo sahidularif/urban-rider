@@ -1,0 +1,17 @@
+.card-container{
+    width: 90%;
+    margin:0 auto;
+    margin-top: 10%;
+}
+.card-riders{
+    display: flex;    
+    flex-wrap: wrap; 
+    color:burlywood;
+    justify-content: space-evenly;
+    height: 400px;
+  
+}
+.card-riders img{
+    height: 200px;
+    width: 100%;
+}

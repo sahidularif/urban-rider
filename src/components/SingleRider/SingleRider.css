@@ -1,0 +1,21 @@
+.single-rider{
+    width: 300px;
+    height: 60px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 5px;
+    margin-bottom: 5px;
+    border: 1px solid gray;
+    display: flex;
+    flex-wrap: wrap;
+}
+.single-rider img{
+    width: 100%;
+}
+.single-rider div{
+    width: 32%;
+  margin: 0 auto;
+   justify-content: space-evenly;
+    text-align: center;
+    
+}

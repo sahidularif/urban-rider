@@ -1,0 +1,25 @@
+
+/*  */
+.login-body{
+	width: 80%;
+	margin: 0 auto;
+	border: 1px solid black;
+	
+}
+.fb-google-body{
+	width: auto;
+	height: auto;
+	min-height: 5%;
+	display: flex;
+	margin: 0 auto;
+	text-align: center;
+	align-items: center;
+	justify-content: center;	
+}
+p{
+	display: block;
+}
+
+.toggle-form{
+	text-align: center!;
+}

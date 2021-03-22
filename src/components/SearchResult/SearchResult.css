@@ -1,0 +1,14 @@
+.search-rider{
+    width: 40%;
+    border: 1px solid black;
+    display: flex;
+    margin:  0 auto;
+    margin-bottom: 5px;
+}
+.search-rider div{
+    width: 32%;
+    
+}
+.search-rider div img{
+    width: 80%;
+}
